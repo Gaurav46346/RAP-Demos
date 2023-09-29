@@ -1,2 +1,7 @@
 # RAP-Demos
-RAP Demo practice
+RAP Demo Code
+Managed 
+Unmanaged
+Custom Entity
+Draft
+InA
